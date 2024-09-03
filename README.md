@@ -1,2 +1,4 @@
 # odin-recipes
-Build a basic recipe website. Create html pages and link them to other pages using relative links. Add images, include '<ol> and <ul> and build html skills.
+<p>Build a basic recipe website.</p>
+
+ <p>Create html pages and link them to other pages using relative links. Add images, include ordered/unordered lists and build overall html skills.</p>
